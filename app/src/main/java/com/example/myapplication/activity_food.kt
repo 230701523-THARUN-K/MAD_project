@@ -5,6 +5,7 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
 class FoodActivity : AppCompatActivity() {
+    //gg
 
     override fun onCreate(savedInstanceState: Bundle?) {
 
